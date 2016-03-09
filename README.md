@@ -1,3 +1,8 @@
+## Slides
+
+http://www.slideshare.net/feresp/introduction-to-django-59311291
+
+
 ## Install Python
 
 
